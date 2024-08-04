@@ -32,3 +32,27 @@ A simple Node.js application that provides current weather information and a 5-d
    git clone <repository-url>
    cd weather-app
 
+2. **Install Dependencies**
+
+```bash
+`npm install
+
+3. **Run the Application**
+
+   ```bash
+   node app.js
+
+4. **Access the Application**
+
+   Open your browser and navigate to http://localhost:3000.
+
+Usage
+
+   Enter a City Name: On the home page, type the name of the city you want to get weather information for.
+   Submit the Form: Click the "Get Weather" button.
+   View Weather Information: The current weather, 5-day forecast, and a weather map for the city will be displayed.
+   Check Recent Searches: View the list of recently searched cities.
+
+Output: https://bhanuuo6ninjsivenkbo.drops.nxtwave.tech/
+
+
